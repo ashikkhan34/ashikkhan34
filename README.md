@@ -85,8 +85,8 @@ I'm always eager to learn new technologies, contribute to open-source projects, 
 📩 **Email:** [ashikkhan314167@gmail.com]  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/ashik-khan-44abbb300/](#)  
 🐙 **GitHub:** [https://github.com/ashikkhan34](#)  
-🌐 **Portfolio:** [comming soom....](#)  
+🌐 **Portfolio:** [https://ashikkhan404.surge.sh/](#)  
 
 ---
 
-🔥 **"Code is like humor. When you have to explain it, it’s bad."** - Cory House  
+🔥 **"Code is like humor. When you have to explain it, it’s bad."** 

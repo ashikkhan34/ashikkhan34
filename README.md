@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![](https://i.ibb.co.com/8nCq0SLY/wallpaper.png)
+![](https://i.ibb.co.com/TDZ15kzC/12.jpg)
 
 <h1>I am Ashik khan</h1>
 

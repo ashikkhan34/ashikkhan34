@@ -13,7 +13,7 @@
 
 ## 🚀 **About Me**
 
-I’m a passionate **MERN Stack Developer** and **Front-End Engineer**, dedicated to creating
+I’m a passionate **MERN Stack Developer** and **Backend Developer**, dedicated to creating
 **modern, fast, and user-friendly** web applications.
 I love turning ideas into real digital experiences with **clean code**, **strong architecture**,
 and **beautiful UI**.
@@ -27,15 +27,15 @@ and **beautiful UI**.
 ### 🎯 **Front-End Development**
 
 * 🌐 HTML5, CSS3, JavaScript (ES6+)
-* ⚛️ React.js, Next.js
+* ⚛️ React.js, Next.js ,TypeScript
 * 🎛️ Redux, Context API
-* 🎨 Tailwind CSS, Bootstrap
+* 🎨 Tailwind CSS, Bootstrap , Framer Motion
 
 ---
 
 ### 🛠 **Back-End Development**
 
-* 🟢 Node.js, Express.js
+* 🟢 Node.js, Express.js ,TypeScript
 * 🔐 Authentication (JWT, Firebase Auth, Zod Validation)
 * 🌐 RESTful APIs
 
@@ -51,7 +51,7 @@ and **beautiful UI**.
 ### 🧰 **Tools & Platforms**
 
 * 🧪 Postman
-* 🌐 Surge, Vercel, Heroku
+* 🌐 Surge, Vercel, Prisma , Docker 
 * 🐙 Git & GitHub
 * 💻 VS Code
 
@@ -81,7 +81,7 @@ and **beautiful UI**.
 | Project Name           | Tech Stack            | Live Link                                                                           |
 | ---------------------- | --------------------- | ----------------------------------------------------------------------------------- |
 | **MamarHat Ecommerce** | MERN Stack            | 🔗 [https://mamarhat-c.vercel.app/](https://mamarhat-c.vercel.app/)                 |
-| **Career Boots**       | HTML, CSS, JavaScript | 🔗 [https://career-boots-clint.vercel.app/](https://career-boots-clint.vercel.app/) |
+| **Career Boots**       | Full Stack  🔗 [https://career-boots-clint.vercel.app/](https://career-boots-clint.vercel.app/) |
 | **Bistro Boss**        | MERN Stack            | 🔗 [https://bistro-boss-31bcd.web.app/](https://bistro-boss-31bcd.web.app/)         |
 
 ---
@@ -92,7 +92,7 @@ Currently exploring:
 
 * 🟦 TypeScript
 * ⚡ Advanced React Patterns
-* 🕸 GraphQL
+* 🕸 GraphQL & Nest 
 
 Always improving — always building. 🚀
 

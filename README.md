@@ -1,5 +1,5 @@
 👋 Hello There!
-<p align="center"> <img src="https://i.ibb.co.com/TDZ15kzC/12.jpg" width="260" style="border-radius: 14px;" /> </p> <h1 align="center">✨ I am <strong>Ashik Khan</strong> ✨</h1> <h2 align="center">💻 Backend Developer | MERN Stack Developer</h2>
+<p align="center"> <img src="https://i.ibb.co.com/TDZ15kzC/12.jpg" width="100%" style="border-radius: 14px;" /> </p> <h1 align="center">✨ I am <strong>Ashik Khan</strong> ✨</h1> <h2 align="center">💻 Backend Developer | MERN Stack Developer</h2>
 🚀 About Me
 
 A passionate MERN Stack Developer and Front-End Engineer, dedicated to building modern, fast, and user-friendly web applications.

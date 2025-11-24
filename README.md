@@ -5,39 +5,30 @@
 A passionate MERN Stack Developer and Front-End Engineer, dedicated to building modern, fast, and user-friendly web applications.
 I love turning ideas into real digital experiences with clean code, strong architecture, and beautiful UI.
 
-🧠 Skills & Expertise
-🎯 Front-End Development
+🧠## Skills & Expertise
+🎯 ##Front-End Development
 
 🌐 HTML5, CSS3, JavaScript (ES6+)
-
 ⚛️ React.js, Next.js
-
 🎛️ Redux, Context API
-
 🎨 Tailwind CSS, Bootstrap
 
-🛠 Back-End Development
+🛠 ## Back-End Development
 
 🟢 Node.js, Express.js
-
 🔐 Authentication (JWT, Firebase Auth, Zod Validation)
-
 🌐 RESTful APIs
 
-🗄️ Database
+🗄️ ## Database
 
-🍃 MongoDB
-
+🍃 MongoDB (Mongoose)
 🔥 Firebase Firestore
 
-🧰 Tools & Platforms
+🧰## Tools & Platforms
 
 🧪 Postman
-
 🌐 Surge, Vercel, Heroku
-
 🐙 Git & GitHub
-
 💻 VS Code
 
 
@@ -48,8 +39,7 @@ I love turning ideas into real digital experiences with clean code, strong archi
 
 
 
-🚀 Featured Projects
-🌟 Project Name	Tech Stack	Live Demo
+🚀 Featured Projects 
 MamarHat Ecommerce	MERN Stack	🔗 https://mamarhat-c.vercel.app/
 
 Career Boots	HTML, CSS, JavaScript	🔗 https://career-boots-clint.vercel.app/
@@ -64,9 +54,7 @@ I love learning new technologies and expanding my skillset.
 Currently exploring:
 
 🟦 TypeScript
-
 ⚡ Advanced React Patterns
-
 🕸 GraphQL
 
 Always improving — always building. 🚀

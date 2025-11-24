@@ -4,7 +4,7 @@
 
 <h1>I am Ashik khan</h1>
 
-<h1>## 💻 Junior Front-End Developer | MERN Stack Developer  </h1>
+<h1>## 💻Backend Developer | MERN Stack Developer  </h1>
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### ⚡ Back-End  
 - **Node.js, Express.js**  
-- **RESTful APIs, Authentication (JWT, Firebase Auth)**  
+- **RESTful APIs, Authentication (JWT, Firebase Auth,Zod )**  
 
 ### 🗄️ Database  
 - **MongoDB, Firebase Firestore**  
@@ -64,9 +64,9 @@
 
 | 🌟 Project Name | Tech Stack | Live Demo | Repo |
 |---------------|------------|-----------|------|
-| **Project 1** | React.js, Node.js, MongoDB | [https://bistro-boss-31bcd.web.app/](#) | [GitHub](#) |
-| **Project 2** | HTML, CSS, JavaScript | [https://assignment-9-firebase.surge.sh/](#) | [GitHub](#) |
-| **Project 3** | MERN Stack | [https://assecttrack.web.app/](#) | [GitHub](#) |
+| **Project 1** | React.js, Node.js, MongoDB | [https://mamarhat-c.vercel.app/](#) | [GitHub](#) |
+| **Project 2** | HTML, CSS, JavaScript | [https://career-boots-clint.vercel.app/](#) | [GitHub](#) |
+| **Project 3** | MERN Stack | [https://bistro-boss-31bcd.web.app/](#) | [GitHub](#) |
 
 
 
@@ -83,9 +83,9 @@ I'm always eager to learn new technologies, contribute to open-source projects, 
 💡 Open to collaborations, freelance projects, and exciting tech discussions. Let's build something amazing together! 🚀  
 
 📩 **Email:** [ashikkhan314167@gmail.com]  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/ashik-khan-44abbb300/](#)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/dev-ashikkhan/](#)  
 🐙 **GitHub:** [https://github.com/ashikkhan34](#)  
-🌐 **Portfolio:** [https://ashikkhan404.surge.sh/](#)  
+🌐 **Portfolio:** [https://p-ashikkhan.vercel.app/](#)  
 
 ---
 

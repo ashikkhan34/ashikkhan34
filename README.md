@@ -13,10 +13,26 @@
 
 ## 🚀 **About Me**
 
-I’m a passionate **MERN Stack Developer** and **Backend Developer**, dedicated to creating
-**modern, fast, and user-friendly** web applications.
-I love turning ideas into real digital experiences with **clean code**, **strong architecture**,
-and **beautiful UI**.
+I am **Md. Ashik Khan**, a **Computer Engineer** and **MERN Stack Developer**.  
+I’m currently working in **Front-End Development** with strong expertise in:  
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+and in **Backend Development** with:  
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+I have completed a **MERN Stack Development course** and worked on several full-stack projects.  
+I recently completed an internship at **BD Calling It Ltd**, where I enhanced my full-stack and analytical skills.
+
 
 ---
 

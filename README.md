@@ -81,7 +81,7 @@ and **beautiful UI**.
 | Project Name           | Tech Stack            | Live Link                                                                           |
 | ---------------------- | --------------------- | ----------------------------------------------------------------------------------- |
 | **MamarHat Ecommerce** | MERN Stack            | 🔗 [https://mamarhat-c.vercel.app/](https://mamarhat-c.vercel.app/)                 |
-| **Career Boots**       | Full Stack  🔗 [https://career-boots-clint.vercel.app/](https://career-boots-clint.vercel.app/) |
+| **Career Boots**       | Full Stack            |  🔗 [https://career-boots-clint.vercel.app/](https://career-boots-clint.vercel.app/) |
 | **Bistro Boss**        | MERN Stack            | 🔗 [https://bistro-boss-31bcd.web.app/](https://bistro-boss-31bcd.web.app/)         |
 
 ---
